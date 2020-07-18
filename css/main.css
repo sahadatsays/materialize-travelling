@@ -1,0 +1,22 @@
+ /* here is type custom style code  */
+
+ .slider .btn {
+      margin-top: 20px;
+ }
+
+ .search-section input {
+      padding: 5px !important;
+      padding-left: 20px !important;
+      border: #f4f4f4 solid 3px !important;
+      font-size: 18px !important;
+      border-radius: 50px !important;
+      width: 90% !important;
+ }
+
+ .section h4 {
+      margin-bottom: 30px !important;
+ }
+
+ .contact-section h5 {
+      margin-bottom: 30px;
+ }
